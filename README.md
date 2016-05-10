@@ -10,6 +10,6 @@ Most of the code produces expected answers. In some cases is does not becuase of
 
 Note the difference of indexing bewtween Python and R. (R starts with 1)
 
-In some cases I looked at and also looked python implmentation of  https://github.com/tjaskula/Coursera/tree/master/Specializations/Machine%20Learning/Regression could see some mistakes and difference in values there. 
+In some cases I looked at python implmentation of  https://github.com/tjaskula/Coursera/tree/master/Specializations/Machine%20Learning/Regression could see some mistakes and difference in values there. 
 
 
